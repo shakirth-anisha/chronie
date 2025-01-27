@@ -17,11 +17,12 @@
 /.next/
 /out/
 
-# tailwind and postcss
-tailwind.config.js
-tailwind.config.mjs
-postcss.config.js
-postcss.config.mjs
+#no.
+# # tailwind and postcss
+# tailwind.config.js
+# tailwind.config.mjs
+# postcss.config.js
+# postcss.config.mjs
 
 # production
 /build
